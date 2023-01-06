@@ -1,5 +1,5 @@
 # Console-Finances
-##Financial Analysis
+## Financial Analysis
 
 JavaScript code that analyzes the records to calculate each of the following:
 
